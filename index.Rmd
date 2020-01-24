@@ -2,7 +2,7 @@
 title: "Introduction to R"
 ---
 
-R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that makes data analysis easy for beginners. This mini-course will introduce you the fundementals of R programming with a focus on data management, data visualization and quantitative finance applications in R.
+R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that makes data analysis easy for beginners. This mini-course will introduce you the fundamentals of R programming with a focus on data management, data visualization and quantitative finance applications in R.
 
 ---
 
