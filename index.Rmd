@@ -15,7 +15,7 @@ R is an open-source programming language for statistical computing and graphics.
         * A simple regression example (R script: [r1_simple_regression_housing.R](r1_simple_regression_housing.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-201920-winter/blob/master/docs/rn1_A_Simple_Regression_Housing.ipynb))
         * A twitter example (R script: [twitter_example.R](twitter_example.R); Word Cloud for #rstat: [twitter_word_cloud.png](twitter_word_cloud.png))
         * A "hello world" [deep learning example](https://keras.rstudio.com/articles/getting_started.html): recognizing handwritten digits from the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset. 
-    * Data and Programming Structures (R script: [r2_data_and_programming_structures.R](r2_data_and_programming_structures.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-workshop-2020/blob/master/docs/rn2_Data_and_Programming_Structures.ipynb))
+    * Data and Programming Structures (R script: [r2_data_and_programming_structures.R](r2_data_and_programming_structures.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-201920-winter/blob/master/docs/rn2_Data_and_Programming_Structures.ipynb))
     * Extending the simple regression example (R script: [r3_data_manipulation_modelling_report_housing.R](r3_data_manipulation_modelling_report_housing.R))
         * Data Manipulation
         * Modelling
