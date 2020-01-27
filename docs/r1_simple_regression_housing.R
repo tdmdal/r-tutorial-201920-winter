@@ -4,7 +4,7 @@
 # This is a dataset on housing prices and air pollution from Harrison & Rubinfeld (1978).
 # https://www.sciencedirect.com/science/article/pii/0095069678900062
 # The dataset is also used throughout Wooldridge's text book: Introductory Econometrics: A Modern Approach.
-data_url <- "https://tdmdal.github.io/r-workshop-students/data/hprice.csv"
+data_url <- "https://tdmdal.github.io/r-tutorial-201920-winter/data/hprice.csv"
 hprice <- read.csv(data_url)
 
 # take a look at the structure of the data

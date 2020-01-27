@@ -2,7 +2,7 @@
 
 
 # specify the dataset url
-data_url <- "https://tdmdal.github.io/r-workshop-students/data/hprice.csv"
+data_url <- "https://tdmdal.github.io/r-tutorial-201920-winter/data/hprice.csv"
 
 # read it into a dataframe, hprice; use the read_csv() function in readr library
 
