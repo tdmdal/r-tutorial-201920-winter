@@ -31,7 +31,7 @@ R is an open-source programming language for statistical computing and graphics.
 
 #### Session 2
 
-* [Slides](r_data_.pdf_manipulation.pdf)
+* [Slides](r_data_manipulation.pdf)
 * Code
     * Data Manipulation (R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-201920-winter/blob/master/docs/part2_data_manipulation.ipynb))
 
