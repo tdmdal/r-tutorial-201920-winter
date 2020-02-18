@@ -39,10 +39,10 @@ R is an open-source programming language for statistical computing and graphics.
 
 #### Session 3
 
-* [Slides](r_visualizatoin.pdf)
+* [Slides](r_visualization.pdf)
 * Code
     * Visualization (R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-201920-winter/blob/master/docs/part3_visualization.ipynb))
-    * Visuliazation (R markdown: [_part3_visualization.rmd](_part3_visualization.rmd))
+    * Visuliazation (R markdown: [_part3_visualization.rmd](_part3_visualization.Rmd))
 
 ---
 
