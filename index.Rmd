@@ -42,7 +42,7 @@ R is an open-source programming language for statistical computing and graphics.
 * [Slides](r_visualization.pdf)
 * Code
     * Visualization (R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-201920-winter/blob/master/docs/part3_visualization.ipynb))
-    * Visualization (R markdown: [_part3_visualization.rmd](_part3_visualization.Rmd)); Note: load this file in RStudio. Let's take this opportunity to learn about [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html).
+    * Visualization (R markdown: [_part3_visualization.Rmd](_part3_visualization.Rmd)); Note: load this file in RStudio. Let's take this opportunity to learn about [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html).
 
 ---
 
