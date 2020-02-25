@@ -29,7 +29,7 @@ R is an open-source programming language for statistical computing and graphics.
 
 ---  
 
-#### Session 2
+#### Session 2 (Data Manipulation)
 
 * [Slides](r_data_manipulation.pdf)
 * Code
@@ -37,7 +37,7 @@ R is an open-source programming language for statistical computing and graphics.
 
 ---
 
-#### Session 3
+#### Session 3 (Visualization)
 
 * [Slides](r_visualization.pdf)
 * Code
@@ -46,10 +46,11 @@ R is an open-source programming language for statistical computing and graphics.
 
 ---
 
-#### Session 4 (Coming soon)
+#### Session 4 (Time Series and Some R Finance Packages)
 
-* Slides
+* [Slides](r_timeseries_finance_pkgs.pdf)
 * Code
+    * Time series and finance packages (R markdown: [part4_timeseries_finance_pkg.Rmd](part4_timeseries_finance_pkg.Rmd); HTML: [part4_timeseries_finance_pkg.html](part4_timeseries_finance_pkg.html))
 
 ---
     
